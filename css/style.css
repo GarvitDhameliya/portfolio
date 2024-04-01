@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+:root {
+    --bg-color: #27272b;
+    --btn-color: #e8bf96;
+    --text-white-900: #fff;
+    --text-gray-700: #999999;
+    --text-gray-900: #52526c;
+    --border-color: #333337;
+}
+
+body {
+    background-color: var(--bg-color);
+    /* font-family: 'Jost'; */
+    font-family: 'Euclid Circular B';
+}
